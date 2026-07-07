@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary Uploads (Ensure uploads folder structure remains but audio files are ignored)
+uploads/*
+!uploads/.gitkeep
+
+# Application Logs
+*.log
+.system_generated/
+scratch/
+
+# IDE configurations
+.vscode/
+.idea/
+.DS_Store
