@@ -133,25 +133,4 @@ pronunciation-app/
 
 Below is a conceptual layout of the application dashboard:
 
-```
-+--------------------------------------------------------------------------------+
-|                        🎙️ English Pronunciation Evaluator                       |
-|                                                                                |
-| [📤 Upload File Tab ] [🎤 Record Live Tab]                                      |
-|                                                                                |
-|  🟢 Pronunciation Score: 85/100                                                |
-|  Flagged Words: 3 | Hesitations: 1 | Unclear Segments: 0                       |
-|                                                                                |
-|  Highlighted Transcript:                                                       |
-|  "I want to improve my comfortable [red-dashed] pronunciation but, uh [orange] |
-|   it is hard to say specifically [red-dashed]."                                |
-|                                                                                |
-|  Flagged Pronunciation Issues:                                                 |
-|  +--------------+------------+--------------------+-------------------------+  |
-|  | Word         | Confidence | Grammar Alts (HF)  | Coaching Issue & Tip    |  |
-|  +--------------+------------+--------------------+-------------------------+  |
-|  | comfortable  | 62%        | suitable, ease     | Stress first syllable.  |  |
-|  | specifically | 55%        | clearly, details   | Break into spe-CIF-ic.  |  |
-|  +--------------+------------+--------------------+-------------------------+  |
-+--------------------------------------------------------------------------------+
-```
+![alt text](<demo/Screenshot 2026-07-07 190212.png>) ![alt text](<demo/Screenshot 2026-07-07 190224.png>) ![alt text](<demo/Screenshot 2026-07-07 190310.png>) ![alt text](<demo/Screenshot 2026-07-07 190432.png>) ![alt text](<demo/Screenshot 2026-07-07 190455.png>)
